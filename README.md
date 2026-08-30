@@ -29,6 +29,10 @@ This project is an **Excel-based data analysis and visualization project** using
 
 ## 📈 Key Analysis
 
+## Dashboard Used 
+- href-"https://github.com/Srushtiraul58/Excel-Project-/blob/main/BlinkIT%20Dashboard.png"
+
+
 The dashboard provides insights into:
 
 * Total Sales
@@ -49,3 +53,6 @@ The project demonstrates how **Excel can be used to transform raw grocery sales 
 `BlinkIT Grocery Project.xlsx`
 
 This project was created as part of my **Data Analytics portfolio** to demonstrate practical skills in Excel and business data visualization.
+## Dashboard View ##
+<img width="1712" height="796" alt="BlinkIT Dashboard" src="https://github.com/user-attachments/assets/c6df4f1f-7239-4e0e-ba3f-cfaa4623d71e" />
+
