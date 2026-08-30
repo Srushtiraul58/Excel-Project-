@@ -1,6 +1,8 @@
 # BlinkIT Grocery Sales Analysis Dashboard
 
 ## 📊 Project Overview
+## Dataset used 
+- href-"https://github.com/Srushtiraul58/Excel-Project-/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx"
 
 This project is an **Excel-based data analysis and visualization project** using BlinkIT grocery sales data. The objective is to analyze sales performance, product categories, outlet characteristics, and key business metrics through an interactive dashboard.
 
